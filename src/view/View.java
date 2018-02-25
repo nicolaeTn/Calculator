@@ -186,6 +186,7 @@ public class View{
 
 		// Packs all the elements from above.
 		shell.pack();
+		shell.setText("Calculator");
 		shell.setSize(400, 400);
 		// Displays the view.
 		shell.open();
