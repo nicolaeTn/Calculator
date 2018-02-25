@@ -4,3 +4,5 @@ It supports operations such as addition, substraction, multiplication, division,
 The order of operations is ensured by using a technique involving four stacks.
 
 To run the project, simply run Driver.java that contains the main method.
+
+![](images.calculator.jpg)
